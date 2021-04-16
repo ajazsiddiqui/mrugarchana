@@ -1,0 +1,317 @@
+html {
+  scroll-behavior: smooth;
+}
+.txt-effect{
+	color: #852723
+}
+
+.mrugarchana-effect{
+	border-radius: 0 50px 0 50px;
+	box-shadow: 10px 10px 0px 1px rgba(245,192,162,0.75);
+	-webkit-box-shadow: 10px 10px 0px 1px rgba(245,192,162,0.75);
+	-moz-box-shadow: 10px 10px 0px 1px rgba(245,192,162,0.75);
+}
+@media (max-width: 992px) {
+	.mrugarchana-effect {
+		border-radius: 0 20px 0 20px;
+		box-shadow: 5px 5px 0px 1px rgba(245,192,162,0.75);
+		-webkit-box-shadow: 5px 5px 0px 1px rgba(245,192,162,0.75);
+		-moz-box-shadow: 5px 5px 0px 1px rgba(245,192,162,0.75);
+	}
+}
+
+
+.txt-effect2{
+	color: #852723;
+	text-align: right;
+	margin: 30px 0 40px auto;
+}
+.navbar-light .navbar-toggler {
+    color: #fff;
+}
+.col-half-offset{
+    margin-left:3.166666667%
+}
+.col-md-3.col-half-offset,.col-6.col-half-offset{
+    margin-left:auto;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #fff;
+}
+.site-header .navbar .nav-item .nav-link.active, .site-header .navbar .nav-item .nav-link:hover {
+    color: #f9c3a5;
+}
+.text-gold{
+	color:#f9c3a5
+}
+
+.text-gold:hover{
+	color:#df9d2a
+}
+
+.carousel-cell {
+  width: 100%;
+}
+
+.site-header .navbar {
+    background-color: #852723;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    position: fixed;
+    width: 100%;
+    z-index: 999;
+}
+
+#home{
+	padding-top: 80px;
+}
+
+.navbar-light .navbar-toggler-icon {
+    background-image: none;
+}
+
+.slide-form {
+    position: fixed;
+    bottom: -100px;
+    left: 0;
+    width: 100%;
+    z-index: 99;
+	-webkit-transition: all .5s .5s ease;
+	-moz-transition: all .5s .5s ease;
+	transition: all .5s .2s ease;
+}
+.slide-form span{
+	visibility:hidden;
+}
+@media all and (max-width: 767px) {
+	.slide-form {
+		bottom: -400px;
+	}
+	.hero-content .bhk-btn {
+		width: 135px;
+	}
+	.rera{
+		padding-top:0;
+	}
+}
+.slide-form.open {
+    bottom: 0 !important;
+	z-index: 1000;
+}
+.slide-form.open span{
+    color:#0d1d32;
+	background:#fff;
+	margin-left:5px;
+	visibility:visible;
+	padding: 0 5px;
+}
+.slide-form #slide-btn {
+	background: #852723;
+	width: 250px;
+	text-align: center;
+	color: #fff;
+	padding: 10px;
+	margin: 0 auto;
+	border-radius: 5px 5px 0 0;
+	display: block;
+	font-size: 18px;
+	font-weight: bold;
+}
+.bottomform-holder{
+	background:#852723;
+	padding-top:10px;
+}
+.sm-form-control {
+	display: block;
+	width: 100%;
+	padding: 8px 14px;
+	font-size: 15px;
+	line-height: 1.42857143;
+	color: #555;
+	background-color: #fff;
+	background-image: none;
+	border-radius: 0!important;
+	-webkit-transition: border-color ease-in-out .15s;
+	-o-transition: border-color ease-in-out .15s;
+	transition: border-color ease-in-out .15s;
+	height: auto
+}
+.sm-form-control:focus {
+	border-color: #AAA;
+	outline: 0;
+	-webkit-box-shadow: none;
+	box-shadow: none
+}
+.sm-form-control[disabled],
+.sm-form-control[readonly],
+fieldset[disabled] .sm-form-control {
+	cursor: not-allowed;
+	background-color: #eee;
+	opacity: 1
+}
+.form-control {
+	border-radius: 3px
+}
+.form-control:active,
+.form-control:focus {
+	border-color: #999;
+	box-shadow: none
+}
+label {
+	display: inline-block;
+	font-size: 13px;
+	color: #555;
+	cursor: pointer;
+	margin-bottom: .3rem;
+}
+label.label-muted {
+	color: #999;
+	font-weight: 400;
+	margin-right: 5px
+}
+label.error {
+	margin-top: 5px;
+	color: #E42C3E;
+	font-weight: 400;
+	display: none!important
+}
+.show-error-msg+label.error,
+input[type=checkbox]:not(:checked)+label.error {
+	display: block!important
+}
+.form-control.error,
+.sm-form-control.error {
+	border-color: #E42C3E
+}
+.slide-form label {
+	color: #fff
+}
+.slide-form input{
+	margin-bottom:10px;
+}
+.form-btn {
+	margin-bottom: 15px
+}
+.form-btn #contact-submit {
+	height: 39px;
+	line-height: 39px;
+	width: 100%;
+	background-color: #f9c3a5;
+	color:#16294b;
+	font-weight: 600;
+	letter-spacing: .1px;
+	border:0;
+	cursor:pointer;
+}
+.sm-form-control {
+    border: 1px solid #eee;
+}
+
+.box {
+  width: 200px; height: 300px;
+  position: relative;
+  border: 1px solid #BBB;
+  background: #EEE;
+}
+.ribbon {
+  position: absolute;
+  right: -5px; top: -5px;
+  z-index: 1;
+  overflow: hidden;
+width: 150px;
+height: 150px;
+  text-align: right;
+}
+.ribbon span {
+  font-size: 20px;
+  font-weight: bold;
+  color: #FFF;
+  text-transform: uppercase;
+  text-align: center;
+  line-height: 40px;
+  transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
+  width: 200px;
+  display: block;
+  background: #79A70A;
+  background: linear-gradient(#1F3558 0%, #0b1b3d 100%);
+  box-shadow: 0 3px 10px -5px rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 38px; right: -42px;
+}
+
+.ribbon.red span{
+	background: #F70505;
+  background:linear-gradient(#F70505 0%, #8F0808 100%) !important;
+}	
+.ribbon span::before {
+  content: "";
+  position: absolute; left: 0px; top: 100%;
+  z-index: -1;
+  border-left: 3px solid #0b1b3d;
+  border-right: 3px solid transparent;
+  border-bottom: 3px solid transparent;
+  border-top: 3px solid #0b1b3d;
+}
+.ribbon span::after {
+  content: "";
+  position: absolute; right: 0px; top: 100%;
+  z-index: -1;
+  border-left: 3px solid transparent;
+  border-right: 3px solid #0b1b3d;
+  border-bottom: 3px solid transparent;
+  border-top: 3px solid #0b1b3d;
+}
+
+.future-holder h5{
+	text-align: right;
+	margin-top: 20px;
+	margin-right: 0;
+	padding: 0;
+}
+
+.bg-brick {
+    background-color: #F9C3A5 !important;
+}
+
+@media (max-width: 992px) {
+	.twenty-percent-bg-blue {
+		background: url('../images/elevation.jpg');
+		background-size: contain;
+		background-position: center;
+		height: auto;
+		width: 100%;
+		height: 550px;
+		background-size: cover;
+	}
+	.twenty-percent-bg-blue  .container{
+		padding-top: 2rem !important;
+	}
+	.elevation-box{
+		display:none;
+	}
+	.whatsapp-btn{
+		display:none;
+	}
+	.site-header .navbar .nav-item {
+		color: #f9c3a5;
+		border-bottom: 1px solid #f9c3a5;
+	}
+	.nav-modules{
+		margin-left:10px !important;
+	}
+}
+
+@media (max-width: 767.98px) {
+	.twenty-percent-bg-blue {
+		height: 550px;
+	}
+}
+
+@media (max-width: 500px) {
+	.twenty-percent-bg-blue {
+		height: 350px;
+	}
+}
+
