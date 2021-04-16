@@ -97,17 +97,17 @@
 			   <div class="col-lg-12 my-auto mt-md-3 mt-5">
 				   <div class="row">
 					  <div class="col-6 col-lg-3 mb-3"><img class="img-fluid mrugarchana-effect" src="assets/images/rooftop/1.jpg" />
-					  <h6 class="txt-effect2">Adult Swing</h6></div>
+					  <h6 class="txt-effect2"><span class="numberings">1</span>Adult Swing</h6></div>
 					  <div class="col-6 col-lg-3 mb-3"><img class="img-fluid mrugarchana-effect" src="assets/images/rooftop/2.jpg" />
-					  <h6 class="txt-effect2">Amphitheatre</h6></div>
-					  <div class="col-6 col-lg-3 mb-3"><img class="img-fluid mrugarchana-effect" src="assets/images/rooftop/3.jpg" /><h6 class="txt-effect2">Cafe & Rock Climbing</h6></div>
-					  <div class="col-6 col-lg-3 mb-3"><img class="img-fluid mrugarchana-effect" src="assets/images/rooftop/4.jpg" /><h6 class="txt-effect2">Lounge Seating</h6></div>
-					  <div class="col-6 col-lg-3 mb-3"><img class="img-fluid mrugarchana-effect" src="assets/images/rooftop/5.jpg" /><h6 class="txt-effect2">Exercise Area</h6></div>
-					  <div class="col-6 col-lg-3 mb-3"><img class="img-fluid mrugarchana-effect" src="assets/images/rooftop/6.jpg" /><h6 class="txt-effect2">3d Play Area</h6></div>
-					  <div class="col-6 col-lg-3 mb-3"><img class="img-fluid mrugarchana-effect" src="assets/images/rooftop/7.jpg" /><h6 class="txt-effect2">Children's Landscape</h6></div>
-					  <div class="col-6 col-lg-3 mb-3"><img class="img-fluid mrugarchana-effect" src="assets/images/rooftop/8.jpg" /><h6 class="txt-effect2">Snakes & Ladders</h6></div>
-					  <div class="col-6 col-lg-3 mb-3"><img class="img-fluid mrugarchana-effect" src="assets/images/rooftop/9.jpg" /><h6 class="txt-effect2">3D Skating Area</h6></div>
-					  <div class="col-6 col-lg-3 mb-3"><img class="img-fluid mrugarchana-effect" src="assets/images/rooftop/10.jpg" /><h6 class="txt-effect2">Pergola Seating</h6></div>
+					  <h6 class="txt-effect2"><span class="numberings">2</span>Amphitheatre</h6></div>
+					  <div class="col-6 col-lg-3 mb-3"><img class="img-fluid mrugarchana-effect" src="assets/images/rooftop/3.jpg" /><h6 class="txt-effect2"><span class="numberings">3</span>Cafe & Rock Climbing</h6></div>
+					  <div class="col-6 col-lg-3 mb-3"><img class="img-fluid mrugarchana-effect" src="assets/images/rooftop/4.jpg" /><h6 class="txt-effect2"><span class="numberings">4</span>Lounge Seating</h6></div>
+					  <div class="col-6 col-lg-3 mb-3"><img class="img-fluid mrugarchana-effect" src="assets/images/rooftop/5.jpg" /><h6 class="txt-effect2"><span class="numberings">5</span>Exercise Area</h6></div>
+					  <div class="col-6 col-lg-3 mb-3"><img class="img-fluid mrugarchana-effect" src="assets/images/rooftop/6.jpg" /><h6 class="txt-effect2"><span class="numberings">6</span>3d Play Area</h6></div>
+					  <div class="col-6 col-lg-3 mb-3"><img class="img-fluid mrugarchana-effect" src="assets/images/rooftop/7.jpg" /><h6 class="txt-effect2"><span class="numberings">7</span>Children's Landscape</h6></div>
+					  <div class="col-6 col-lg-3 mb-3"><img class="img-fluid mrugarchana-effect" src="assets/images/rooftop/8.jpg" /><h6 class="txt-effect2"><span class="numberings">8</span>Snakes & Ladders</h6></div>
+					  <div class="col-6 col-lg-3 mb-3"><img class="img-fluid mrugarchana-effect" src="assets/images/rooftop/9.jpg" /><h6 class="txt-effect2"><span class="numberings">9</span>3D Skating Area</h6></div>
+					  <div class="col-6 col-lg-3 mb-3"><img class="img-fluid mrugarchana-effect" src="assets/images/rooftop/10.jpg" /><h6 class="txt-effect2"><span class="numberings">10</span>Pergola Seating</h6></div>
 					</div>
 				</div>
               </div>

@@ -270,7 +270,17 @@ height: 150px;
 	margin-right: 0;
 	padding: 0;
 }
-
+.numberings{
+	background: #852723;
+	color: #fff;
+	width: 20px;
+	height: 20px;
+	display: block;
+	border-radius: 50%;
+	text-align: center;
+	float: right;
+	margin-left: 10px;
+}
 .bg-brick {
     background-color: #F9C3A5 !important;
 }
