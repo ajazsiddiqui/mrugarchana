@@ -57,23 +57,23 @@
     <!-- Navbar-->
     <div class="site-header header-bottom-area">
       <nav class="navbar navbar-expand-lg navbar-light">
-        <div class="container"><a class="navbar-brand" href="index#home"><img class="site-logo" src="assets/images/logo.png" alt="Logo"></a>
+        <div class="container"><a class="navbar-brand" href="#home"><img class="site-logo" src="assets/images/logo-w.png" width="80" alt="Logo"></a>
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation"><i class="fa fa-bars "></i></button>
-          <div class="collapse navbar-collapse" style="background:#28282b" id="navbarNavDropdown">
+          <div class="collapse navbar-collapse" style="background:#852723" id="navbarNavDropdown">
             <ul class="navbar-nav mx-auto">
-              <li class="nav-item"><a class="nav-link" href="index#features">Features</a></li>
-              <li class="nav-item"><a class="nav-link" href="index#experiences">Club Experiences</a></li>
-              <li class="nav-item"><a class="nav-link" href="index#concierge">24x7 Concierge</a></li>
-              <li class="nav-item"><a class="nav-link" href="index#developments">Future Developments</a></li>
-              <li class="nav-item"><a class="nav-link" href="index#expert">Expert Views</a></li>
-              <li class="nav-item"><a class="nav-link" href="index#virtualtour">Virtual Tour</a></li>
-              <!--<li class="nav-item"><a class="nav-link" href="index#pricing">Pricing</a></li>-->
+              <li class="nav-item"><a class="nav-link" href="#rooftop">Rooftop Amenities</a></li>
+              <li class="nav-item"><a class="nav-link" href="#future">Future Developments</a></li>
+              <li class="nav-item"><a class="nav-link" href="#homes">Spacious Homes</a></li>
+              <li class="nav-item"><a class="nav-link" href="#expert">Expert Views</a></li>
+              <li class="nav-item"><a class="nav-link" href="#pricing">Configurations</a></li>
+              <li class="nav-item"><a class="nav-link" href="#googlemap">Location Map</a></li>
+              <!--<li class="nav-item"><a class="nav-link" href="#pricing">Pricing</a></li>-->
               
             </ul>
             <ul class="nav-modules list-unstyled d-md-flex align-items-center mx-3 mx-lg-0">
               <!-- Social nav-->
-              <li class="mr-lg-3 my-3 my-lg-0"><a class="text-gold" href="tel:1246520195">124 652 0195</a></li>
-              <li><a class="btn btn-outline-black-header text-gold" href="#"><i class="fab fa-whatsapp"></i></a></li>
+              <li class="mr-lg-3 my-3 my-lg-0"><a class="text-gold" href="tel:1246520195">1246 520 193</a></li>
+              <li class="whatsapp-btn"><a class="btn btn-outline-black-header text-gold" href="#"><i class="fab fa-whatsapp"></i></a></li>
             </ul>
           </div>
         </div>
