@@ -103,7 +103,7 @@
 					  <div class="col-6 col-lg-3 mb-3"><img class="img-fluid mrugarchana-effect" src="assets/images/rooftop/3.jpg" /><h6 class="txt-effect2"><span class="numberings">3</span>Cafe & Rock Climbing</h6></div>
 					  <div class="col-6 col-lg-3 mb-3"><img class="img-fluid mrugarchana-effect" src="assets/images/rooftop/4.jpg" /><h6 class="txt-effect2"><span class="numberings">4</span>Lounge Seating</h6></div>
 					  <div class="col-6 col-lg-3 mb-3"><img class="img-fluid mrugarchana-effect" src="assets/images/rooftop/5.jpg" /><h6 class="txt-effect2"><span class="numberings">5</span>Exercise Area</h6></div>
-					  <div class="col-6 col-lg-3 mb-3"><img class="img-fluid mrugarchana-effect" src="assets/images/rooftop/6.jpg" /><h6 class="txt-effect2"><span class="numberings">6</span>3d Play Area</h6></div>
+					  <div class="col-6 col-lg-3 mb-3"><img class="img-fluid mrugarchana-effect" src="assets/images/rooftop/6.jpg" /><h6 class="txt-effect2"><span class="numberings">6</span>Play Area</h6></div>
 					  <div class="col-6 col-lg-3 mb-3"><img class="img-fluid mrugarchana-effect" src="assets/images/rooftop/7.jpg" /><h6 class="txt-effect2"><span class="numberings">7</span>Children's Landscape</h6></div>
 					  <div class="col-6 col-lg-3 mb-3"><img class="img-fluid mrugarchana-effect" src="assets/images/rooftop/8.jpg" /><h6 class="txt-effect2"><span class="numberings">8</span>Snakes & Ladders</h6></div>
 					  <div class="col-6 col-lg-3 mb-3"><img class="img-fluid mrugarchana-effect" src="assets/images/rooftop/9.jpg" /><h6 class="txt-effect2"><span class="numberings">9</span>3D Skating Area</h6></div>
@@ -309,8 +309,8 @@
                       <h5 class="pricing-table__amount">1.5 <span class="pricing-table__currency">BHK</span></h5>
                     </div>
                     <ul class="pricing-table__features">
-                      <li><i class="fas fa-check mr-2 mr-2"></i> 272 Sq.ft Onwards</li>
-                      <li><i class="fas fa-check mr-2 mr-2"></i> 25.27 Sq.mt onwards (RERA)</li>
+                      <li><i class="fas fa-check mr-2 mr-2"></i> 536 Sq.ft (₹ 1.36 Cr.)</li>
+                      <li><i class="fas fa-check mr-2 mr-2"></i> 561 Sq.ft (₹ 1.43 Cr.)</li>
                     </ul>
                   </div>
                 </div>
@@ -323,8 +323,8 @@
                       <h5 class="pricing-table__amount">2 <span class="pricing-table__currency">BHK</span></h5>
                     </div>
                     <ul class="pricing-table__features">
-                      <li><i class="fas fa-check mr-2 mr-2"></i> 597 Sq.ft Onwards</li>
-                      <li><i class="fas fa-check mr-2 mr-2"></i> 49.05 Sq.mt onwards (RERA)</li>
+                      <li><i class="fas fa-check mr-2 mr-2"></i> 639 Sq.ft (₹ 1.62 Cr.)</li>
+                      <li><i class="fas fa-check mr-2 mr-2"></i> 665 Sq.ft (₹ 1.69 Cr.)</li>
                     </ul>
                   </div>
                 </div>
@@ -336,8 +336,7 @@
                       <h5 class="pricing-table__amount">2.5 <span class="pricing-table__currency">BHK</span></h5>
                     </div>
                     <ul class="pricing-table__features">
-                      <li><i class="fas fa-check mr-2 mr-2"></i> 710 Sq.ft Onwards</li>
-                      <li><i class="fas fa-check mr-2 mr-2"></i> 66 Sq.mt onwards (RERA)</li>
+                      <li><i class="fas fa-check mr-2 mr-2"></i> 730 Sq.ft (₹ 1.86 Cr.)</li>
                     </ul>
                   </div>
                 </div>
