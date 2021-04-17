@@ -23,11 +23,11 @@
 							<input id="phone" name="phone" value="" class="sm-form-control required" required="" type="tel">
 							</div>
 					<div class="col-md-3 col-sm-12 pull-left">
-								<label for="budget">Select Budget <small>*</small>
+								<label for="budget">Enquiring For <small>*</small>
 								</label>
 								<select name="budget" id="budget" class="sm-form-control budget required" required="">
-									<option value="">Select Budget</option>
-									<option value="1.5">1 BHK</option>
+									<option value="">Select Configuration</option>
+									<option value="1.5">1.5 BHK</option>
 									<option value="2">2 BHK</option>
 									<option value="2.5">2.5 BHK</option>
 								</select>
