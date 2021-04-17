@@ -139,7 +139,7 @@
 	<div id="scs-msg">
 			<p>Form Submitted successfully</p>		
 	</div>
-	<p>
+	
 	<?php include_once('inc/contact-form.php'); ?>
     <!-- End Footer-->
     <!-- javascript files-->
