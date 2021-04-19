@@ -406,7 +406,8 @@
 				</div>
 				<div class="row">
 					<div class="col-md-12">
-					<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15073.611276425288!2d72.9553027!3d19.1776006!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xecffabf976061967!2sMrugarchana!5e0!3m2!1sen!2sin!4v1618598431350!5m2!1sen!2sin" width="100%" height="450" style="border:0;" frameborder="0" style="border:0;" allowfullscreen="" loading="lazy" tabindex="0"></iframe>
+					<!--<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15073.611276425288!2d72.9553027!3d19.1776006!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xecffabf976061967!2sMrugarchana!5e0!3m2!1sen!2sin!4v1618598431350!5m2!1sen!2sin" width="100%" height="450" style="border:0;" frameborder="0" style="border:0;" allowfullscreen="" loading="lazy" tabindex="0"></iframe>-->
+					<iframe class="gmap-holder" src="map/index.html" width="100%" height="450" frameborder="0" style="border:0;" allowfullscreen="" loading="lazy" tabindex="0"></iframe>
 					</div>
 				</div>
 			</div>

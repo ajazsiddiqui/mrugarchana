@@ -67,6 +67,10 @@ img {
 }
 
 @media (max-width: 991.98px) {
+	
+	.gmap-holder{
+		height:700px !important;
+	}
   .site-header .navbar-collapse {
     background-color: #ffffff;
     padding-left: 0;

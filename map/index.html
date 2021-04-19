@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>MrugArchana by Shreejee Buildcon Homes LLP</title> 
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link href="style.css" rel="stylesheet" type="text/css"/>
+	<link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap" rel="stylesheet"> 
+	<script src="jquery-3.1.1.min.js"></script>
+	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCvNC9jHSw2VqZzmb1ahxEL-OBzzKsKJi4&amp;libraries=places&amp;callback=initialize" async defer></script>
+
+	<script src="script.js"></script>
+   </head>
+   <body>
+	<div class="map_holder">
+	  <div class="detailMap">
+		 <form name="frm_map" id="frm_map">
+			<h3 class="centerFwhite">MrugArchana</h3>
+			<p class="centerFwhite">Siddharth Nagar, Mulund West, Mumbai, Maharashtra 400080</p>
+			<input type="hidden" name="address" id="address" value="Mrugarchana Siddharth Nagar, Mulund West, Mumbai, Maharashtra 400080" />
+			<input type="hidden" name="radius" id="radius" value="1" placeholder="In KM" />
+			<p class="labels centerFwhite"><b>Point of Interest</b></p>
+			<select id="types"></select>
+			<ul id="details"><li class="list_text">Explore your point of interest with 5km radius of the project.</li></ul>
+		 </form>
+	  </div>
+	  <div class="mapcont">
+		<div id="map"></div>
+	 </div>
+	</div>     
+   </body>
+</html>
+
